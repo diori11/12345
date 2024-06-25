@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+    border: 2 px dashed black;
+    border-radius: 50 px; 
+}
+
+.lol{
+    border: 2 px dashed black;
+    border-radius: 50 px;
+    position: fixed;
+    transform: translate X (600 px);
+}
